@@ -18,7 +18,8 @@ The model classifies corn leaves into four categories:
 ## 🎥 Project Explanation
 
 ### Video Presentation
-[Watch the Project Explanation](INSERT_VIDEO_LINK_HERE)
+[Watch the Project Explanation]([INSERT_VIDEO_LINK_HERE](https://drive.google.com/drive/folders/1lojVNStBPOaP65cin8Uj65gATOqaiNRa?
+usp=drive_link))
 
 This video covers:
 
@@ -26,7 +27,6 @@ This video covers:
 - CNN architecture design
 - Model improvements
 - Performance evaluation
-- Key findings and lessons learned
 
 ---
 
