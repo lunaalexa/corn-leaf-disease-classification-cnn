@@ -18,8 +18,8 @@ The model classifies corn leaves into four categories:
 ## 🎥 Project Explanation
 
 ### Video Presentation
-[Watch the Project Explanation]([INSERT_VIDEO_LINK_HERE](https://drive.google.com/drive/folders/1lojVNStBPOaP65cin8Uj65gATOqaiNRa?
-usp=drive_link))
+[Watch the Project Explanation]([https://drive.google.com/drive/folders/1lojVNStBPOaP65cin8Uj65gATOqaiNRa?
+usp=drive_link])
 
 This video covers:
 
