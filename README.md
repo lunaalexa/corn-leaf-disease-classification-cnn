@@ -99,13 +99,15 @@ These improvements helped the model learn more discriminative features while red
 
 ### Key Outcomes
 
-- Achieved approximately **93% test accuracy**
+- Achieved approximately **93% test accuracy**  
   ![Results Dashboard](EvaluationMetrics.png)
+
   
-- Reduced Gray Leaf Spot → Blight misclassification from **33% to 6.9%**
+- Reduced Gray Leaf Spot → Blight misclassification from **33% to 6.9%**  
   ![Results Dashboard](ConfusionMatrix.jpg)
   
-- Improved model stability and generalization performance
+  
+- Improved model stability and generalization performance  
   ![Results Dashboard](LossCurvePlot.jpg)
 
 ---
