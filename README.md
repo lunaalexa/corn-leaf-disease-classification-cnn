@@ -149,13 +149,10 @@ Before this project, I focused heavily on accuracy metrics. Through repeated exp
 
 It was the first time I started paying close attention to whether a model was actually learning—or simply memorizing.
 
+
 ---
+## 👩‍💻 Author
 
+**Luna Alexa**
 
-## 👤 Author
-
-**Luna Alexa**  
-Data Science Student at BINUS University
----
-
-**BINUS University — Deep Learning Project (2026)**
+Data Science Student — BINUS University
