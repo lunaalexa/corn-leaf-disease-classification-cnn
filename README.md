@@ -31,6 +31,8 @@ This video covers:
 
 ## 📊 Dataset
 
+![Results Dashboard](fotodaunjagung.png)
+
 The dataset consists of labeled corn leaf images belonging to four classes:
 
 | Class | Description |
@@ -100,7 +102,9 @@ These improvements helped the model learn more discriminative features while red
 - Achieved approximately **93% test accuracy**
 - Reduced Gray Leaf Spot → Blight misclassification from **33% to 6.9%**
 - Improved model stability and generalization performance
-
+![Results Dashboard](EvaluationMetrics.png)
+![Results Dashboard](LossCurvePlot.png)
+![Results Dashboard](ConfusionMatrix.png)
 ---
 
 ## 💡 Key Learnings
